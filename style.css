@@ -1,0 +1,53 @@
+/* Configurações Gerais */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #68eb11;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto; /* Centraliza a página */
+}
+
+/* Estilo das Caixas (Sections) */
+section {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 25px;
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Sombra suave */
+    border-left: 5px solid #d91a1a; /* Detalhe lateral (cor do Frevo/PE) */
+}
+
+/* Títulos */
+h1 {
+    color: #b01515;
+    margin-top: 0;
+    font-size: 1.8rem;
+}
+
+/* Estilo das Imagens */
+img {
+    display: block;
+    max-width: 100%; /* Garante que a imagem não transborde a caixa */
+    height: auto;
+    margin: 20px auto;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+/* Ajuste para textos longos */
+p {
+    text-align: justify;
+    margin-bottom: 15px;
+}
+
+/* Destaque para a "Bilola Gigante" */
+strong {
+    color: #d91a1a;
+    text-transform: uppercase;
+}
