@@ -2,7 +2,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #68eb11;
-    color: #333;
+    color: #070707;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
@@ -13,6 +13,25 @@ main {
     margin: 0 auto; /* Centraliza a página */
 }
 
+nav{
+    background-color: #ffffff;
+    margin-top: 0;
+    font-size: 1.0rem;
+    padding:3px;
+    color: #b01515;
+    border-radius: 3px; /* Cantos arredondados */
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1); /* Sombra suave */
+    border-left: 3px solid #d91a1a;
+}
+
+}
+
+.h1titu{
+     color: #b01515;
+    margin-top: 0;
+    font-size: 1.8rem;
+
+}
 /* Estilo das Caixas (Sections) */
 section {
     background-color: #ffffff;

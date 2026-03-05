@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #68eb11;
+    color: #141414;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+section {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 25px;
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Sombra suave */
+    border-left: 5px solid #d91a1a; /* Detalhe lateral (cor do Frevo/PE) */
+}
+p {
+    text-align: justify;
+    margin-bottom: 15px;
+}
